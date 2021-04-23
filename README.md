@@ -1,6 +1,6 @@
 <h1 align=center> Hi there, I'm Marlon Regis👋 </h1>
 
-<p align=center> Escreve aqui um sobre </p>
+<p align=center>Computer engineering student, enthusiastic about technology and in search of knowledge in a continuous way</p>
 
 
 ### 📚 Developing Skills
@@ -50,7 +50,7 @@
 <br/>
 
 <p align="left">
-  <a href="mailto:digitaseuemailaqui@dominio.com" alt="E-mail">
+  <a href="mailto:marlonregis14@outlook.com" alt="E-mail">
   <img src="https://img.shields.io/badge/-E--mail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:digitaseuemailaqui@dominio.com" /></a>
 
   <a href="https://www.linkedin.com/in/marlon-regis-pinto-297247150/" target="_blank" alt="Linkedin">
