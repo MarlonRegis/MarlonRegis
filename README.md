@@ -62,7 +62,7 @@
 </p>  
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonRegis&show_icons=true&count_private=true&theme=vision-friendly-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonRegis&show_icons=true&count_private=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonRegis)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonRegis&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
