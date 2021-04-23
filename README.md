@@ -51,7 +51,7 @@
 
 <p align="left">
   <a href="mailto:marlonregis14@outlook.com" alt="E-mail">
-  <img src="https://img.shields.io/badge/-E--mail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:digitaseuemailaqui@dominio.com" /></a>
+  <img src="https://img.shields.io/badge/-E--mail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:marlonregis14@outlook.com" /></a>
 
   <a href="https://www.linkedin.com/in/marlon-regis-pinto-297247150/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlon-regis-pinto-297247150/"/></a>
@@ -64,5 +64,5 @@
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonRegis&show_icons=true&count_private=true&theme=vision-friendly-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonRegis&theme=vision-friendly-dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonRegis)](https://github.com/anuraghazra/github-readme-stats)
 
